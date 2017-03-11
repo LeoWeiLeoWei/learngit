@@ -1,5 +1,6 @@
 first line
 second line
 third line
-fouch line from dev branch
+fourth line from dev branch
+Creating a new branch is quick AND simple.
 
